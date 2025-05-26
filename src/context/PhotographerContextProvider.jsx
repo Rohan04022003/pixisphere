@@ -23,9 +23,9 @@ const PhotographerContextProvider = ({ children }) => {
   useEffect(() => {
     setLoading(true);
     axios
-      .get("http://localhost:3001/photographers")
+      .get("/db.json")
       .then((res) => {
-        setData(res.data);
+        setData(res.data.photographers);
         setLoading(false);
       })
       .catch((err) => {

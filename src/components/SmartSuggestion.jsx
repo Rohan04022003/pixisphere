@@ -14,7 +14,7 @@ const SmartSuggestion = () => {
       </div>
 
       <div className="suggested-message text-center md:text-lg ml-2">
-        <p onClick={suggestionFilter} className="cursor-pointer">
+        <p onClick={suggestionFilter} className="cursor-pointer hover:opacity-80">
           <span className="pr-1 text-xlr">✨</span>
           Top-rated photographer in {suggestion.city} starting from ₹
           {suggestion.price}
