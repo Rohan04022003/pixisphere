@@ -40,10 +40,9 @@ Pixisphere/
 ├── index.html                # Main HTML entry point
 ├── package.json              # Project metadata and dependencies
 ├── vite.config.js            # Vite build configuration
-├── db.json                   # Mock database (JSON Server)
 ├── README.md                 # Project documentation
 ├── vercel.json               # Vercel config for SPA navigation
-├── public/                   # Static assets (if any)
+├── public/db.json             # Mock database
 ├── src/                      # Source code
 │   ├── App.jsx               # Main app component and routing
 │   ├── main.jsx              # App bootstrap and context providers
