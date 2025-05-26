@@ -1,0 +1,815 @@
+{
+  "photographers": [
+    {
+      "id": 1,
+      "name": "Queen Studio",
+      "location": "Mumbai",
+      "price": 8390,
+      "rating": 5.0,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://i.pinimg.com/736x/0d/f9/11/0df911bc72c71118919e7ae7d0e314aa.jpg",
+      "portfolio": [
+        "https://i.pinimg.com/736x/b9/2c/0d/b92c0d684e8e57614e14382a41578d0d.jpg",
+        "https://i.pinimg.com/736x/35/56/09/355609a9e0984a9ae8c223c13d12c114.jpg",
+        "https://i.pinimg.com/736x/ac/e9/fc/ace9fc785ceeec2c7fa772f8288ae343.jpg",
+        "https://i.pinimg.com/736x/ec/fd/1c/ecfd1c17f2b638f2cc7bf4e1cedbf663.jpg",
+        "https://i.pinimg.com/736x/b7/b4/8e/b7b48edbc2c4f4fc450dd8920049df99.jpg",
+        "https://i.pinimg.com/736x/94/6c/fe/946cfed46cdb61a0a7ff1601eb0637bf.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 5,
+          "comment": "Loved it!",
+          "date": "2024-07-02"
+        },
+        {
+          "name": "Ankit",
+          "rating": 5,
+          "comment": "Awesome!",
+          "date": "2024-07-04"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 16253,
+      "rating": 4.7,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes.",
+      "profilePic": "https://i.pinimg.com/736x/09/43/b3/0943b3afa5e0b8ec5412b95d62b18fc6.jpg",
+      "portfolio": [
+        "https://anakoskaphotography.com/wp-content/uploads/2024/03/large-family-poses.jpg",
+        "https://i.pinimg.com/736x/5c/88/d8/5c88d86afe4fd2cc55e2a6177c13a3b7.jpg",
+        "https://i.pinimg.com/736x/c0/f8/c7/c0f8c7f34dea5741a166cf7ad6960d04.jpg",
+        "https://i.pinimg.com/736x/16/88/0e/16880efba6e3872f507a0500552f2d6d.jpg",
+        "https://i.pinimg.com/736x/a4/20/84/a420843d195119c04df404a7640fcda2.jpg",
+        "https://i.pinimg.com/736x/84/15/7b/84157bba4e7da2db9bfabae031a283a1.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 4.7,
+          "comment": "Good service overall.",
+          "date": "2024-10-07"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Snapshot Studio",
+      "location": "Ahmedabad",
+      "price": 8330,
+      "rating": 4.9,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/ec/bf/e4/ecbfe4c8aa72d76d0fed8010aadea0b6.jpg",
+        "https://i.pinimg.com/736x/b1/8f/8c/b18f8c8be921c128b928ab511cc191e0.jpg",
+        "https://i.pinimg.com/736x/b4/db/56/b4db56e7493e83c90b24f2208f1e46ff.jpg",
+        "https://i.pinimg.com/736x/d8/e9/2f/d8e92f8abf1fda6380ac9a7140ea22ee.jpg",
+        "https://i.pinimg.com/736x/28/71/b4/2871b49651601a111d7f4001423c158c.jpg",
+        "https://i.pinimg.com/736x/56/58/e4/5658e4d9c0552f53e07959ab5fea9b7b.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 4.9,
+          "comment": "Very professional!",
+          "date": "2024-09-18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Snapshot Studio",
+      "location": "Jaipur",
+      "price": 6597,
+      "rating": 4.0,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/75/bc/d2/75bcd2ca4f39a40e114dfc6e375a6ee5.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 4.0,
+          "comment": "Nice but a bit late.",
+          "date": "2024-01-05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Click Studio",
+      "location": "Delhi",
+      "price": 13596,
+      "rating": 3.7,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/close-up-portrait-curly-handsome-european-male_176532-8133.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/2d/98/6d/2d986db5e79fec4a94d28474fe4ba174.jpg",
+        "https://i.pinimg.com/736x/c0/7a/26/c07a2679e40a7277d809084b9b734b1a.jpg",
+        "https://i.pinimg.com/736x/15/aa/04/15aa047d0c888cd618b53dc3b51e75cd.jpg",
+        "https://i.pinimg.com/736x/82/70/96/8270966584a0f1d2d877835efc747906.jpg",
+        "https://i.pinimg.com/736x/52/13/44/5213441582d7a66702a73c0c3d860525.jpg",
+        "https://i.pinimg.com/736x/fb/77/b1/fb77b1c565998f41cefdee837c963038.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Rishi",
+          "rating": 3.7,
+          "comment": "Excellent quality!",
+          "date": "2024-03-03"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Studio Studio",
+      "location": "Chennai",
+      "price": 7665,
+      "rating": 3.7,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/outdoor-shot-young-caucasian-man-with-beard-relaxing-open-air-surrounded-by-beautiful-mountain-setting-rainforest_273609-1855.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/04/77/c6/0477c684f19efa70e42c089995d8a817.jpg",
+        "https://i.pinimg.com/736x/51/72/a1/5172a114b32fe64458e70333a2f5ba3a.jpg",
+        "https://i.pinimg.com/736x/79/b7/2c/79b72c076a5f3f965e9d79cd899c4367.jpg",
+        "https://i.pinimg.com/736x/3c/d5/89/3cd5891c6639ff1164fd9f939c10cd9e.jpg",
+        "https://i.pinimg.com/736x/75/7d/b3/757db31f652a79216df066d86a676b2c.jpg",
+        "https://i.pinimg.com/736x/d6/cd/cf/d6cdcfc8482b301eda70466d0a5dfae3.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 3.7,
+          "comment": "Great experience!",
+          "date": "2024-08-24"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lens Studio",
+      "location": "Delhi",
+      "price": 19374,
+      "rating": 3.7,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes.",
+      "profilePic": "https://img.freepik.com/free-photo/confident-handsome-guy-looking-camera_114579-79335.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/91/1d/fe/911dfe037ae5e547c37162886f75b959.jpg",
+        "https://i.pinimg.com/736x/4a/17/3f/4a173fa90cb057e7a9e09e317e5cef5b.jpg",
+        "https://i.pinimg.com/736x/40/60/9a/40609a726e942d47dbb1915870e5333a.jpg",
+        "https://i.pinimg.com/736x/f4/82/9b/f4829b8e0e9ed62b34497c083f378ab5.jpg",
+        "https://i.pinimg.com/736x/8c/45/f1/8c45f123e8d67656adc775e849a0fb43.jpg",
+        "https://i.pinimg.com/736x/3d/cd/61/3dcd61dcb24ac51d975dc822ae1c064f.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 3.7,
+          "comment": "Good service overall.",
+          "date": "2024-08-20"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 18706,
+      "rating": 4.4,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/close-up-portrait-serious-handsome-man-with-trendy-hairdo_176532-7487.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/ae/c7/6b/aec76b818be99a60b7558bc1459533b7.jpg",
+        "https://i.pinimg.com/736x/07/e7/ab/07e7abe148f001f0d010ddc435b0a6e7.jpg",
+        "https://i.pinimg.com/736x/fc/39/69/fc39699af59be3782eb1dccb737e7ef3.jpg",
+        "https://i.pinimg.com/736x/13/5f/c5/135fc5144fb781180d20dc971d8cf2dc.jpg",
+        "https://i.pinimg.com/736x/a4/85/74/a48574993832a39e17b83ecee145b2b5.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 4.4,
+          "comment": "Very professional!",
+          "date": "2024-10-26"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Focus Studio",
+      "location": "Bengaluru",
+      "price": 13729,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/bearded-young-man-wearing-shirt_273609-5938.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/f5/3f/78/f53f789836769b4571d6705bffdd929d.jpg",
+        "https://i.pinimg.com/736x/82/70/96/8270966584a0f1d2d877835efc747906.jpg",
+        "https://i.pinimg.com/736x/58/48/1d/58481d1a443b31caec4e4a67f582e7a4.jpg",
+        "https://i.pinimg.com/736x/ce/27/4b/ce274b52d4cc9e57bb1fe638ade9c064.jpg",
+        "https://i.pinimg.com/736x/57/0d/cf/570dcf90e43c230ee914d4f04537f348.jpg",
+        "https://i.pinimg.com/736x/72/32/07/7232076962724d26aa47e35bc48a62c4.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 4.9,
+          "comment": "Nice but a bit late.",
+          "date": "2024-06-05"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pixel Studio",
+      "location": "Ahmedabad",
+      "price": 10082,
+      "rating": 3.5,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/calm-handsome-curly-haired-boy-posing-isolated-light-grey-standing-still-looks-peaceful-wearing-casual-manner-youth-style-concept_176532-8831.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/ed/5f/92/ed5f923c054f9843f7f0b44acccb1487.jpg",
+        "https://i.pinimg.com/736x/51/72/a1/5172a114b32fe64458e70333a2f5ba3a.jpg",
+        "https://i.pinimg.com/736x/79/b7/2c/79b72c076a5f3f965e9d79cd899c4367.jpg",
+        "https://i.pinimg.com/736x/3c/d5/89/3cd5891c6639ff1164fd9f939c10cd9e.jpg",
+        "https://i.pinimg.com/736x/75/7d/b3/757db31f652a79216df066d86a676b2c.jpg",
+        "https://i.pinimg.com/736x/d6/cd/cf/d6cdcfc8482b301eda70466d0a5dfae3.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 3.5,
+          "comment": "Nice but a bit late.",
+          "date": "2024-06-01"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ravi Studio",
+      "location": "Chennai",
+      "price": 9887,
+      "rating": 4.3,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "https://img.freepik.com/free-photo/portrait-handsome-young-man-closeup_176420-15568.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/4a/ad/a3/4aada354f07941825654c738f87e05e5.jpg",
+        "https://i.pinimg.com/736x/c8/5a/b8/c85ab8c3955b59fd4f9817f698ac29e2.jpg",
+        "https://i.pinimg.com/736x/36/d2/a0/36d2a0e2abc2f39b72b9333998fcb867.jpg",
+        "https://i.pinimg.com/736x/eb/23/1e/eb231ec2f373d0fb10a6890c0285dd26.jpg",
+        "https://i.pinimg.com/736x/fd/09/dc/fd09dc60ab3f470dc69a60fa53f3ef2b.jpg",
+        "https://i.pinimg.com/736x/8a/86/33/8a8633e3a0cddc234d04b2bcddcb6fe7.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 4.3,
+          "comment": "Excellent quality!",
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Ravi Studio",
+      "location": "Pune",
+      "price": 19974,
+      "rating": 3.3,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes.",
+      "profilePic": "https://img.freepik.com/free-photo/bearded-young-man-wearing-shirt_273609-5938.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/10/b2/9a/10b29a0981a57958fdd5a756bfbab5ae.jpg",
+        "https://i.pinimg.com/736x/3f/03/26/3f0326bd73d4eddef6861c6f876f7ad3.jpg",
+        "https://i.pinimg.com/736x/91/3e/51/913e511d67226649e5cb0585d56b90b7.jpg",
+        "https://i.pinimg.com/736x/78/3c/1d/783c1dc771d991a6a61b480020f49583.jpg",
+        "https://i.pinimg.com/736x/09/b2/0a/09b20a94f4c4ee91a676e8acedc18dfa.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Sneha",
+          "rating": 3.3,
+          "comment": "Excellent quality!",
+          "date": "2024-11-17"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Pixel Studio",
+      "location": "Hyderabad",
+      "price": 15378,
+      "rating": 5.0,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "https://img.freepik.com/free-photo/portrait-young-man-with-dark-curly-hair_176532-8137.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/d0/17/fe/d017fe95918e84cce1af0fc211b10ca4.jpg",
+        "https://i.pinimg.com/736x/c8/5a/b8/c85ab8c3955b59fd4f9817f698ac29e2.jpg",
+        "https://i.pinimg.com/736x/36/d2/a0/36d2a0e2abc2f39b72b9333998fcb867.jpg",
+        "https://i.pinimg.com/736x/eb/23/1e/eb231ec2f373d0fb10a6890c0285dd26.jpg",
+        "https://i.pinimg.com/736x/fd/09/dc/fd09dc60ab3f470dc69a60fa53f3ef2b.jpg",
+        "https://i.pinimg.com/736x/8a/86/33/8a8633e3a0cddc234d04b2bcddcb6fe7.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 5.0,
+          "comment": "Highly recommend!",
+          "date": "2024-06-24"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lens Studio",
+      "location": "Pune",
+      "price": 6005,
+      "rating": 3.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/man-is-happy-smiling-with-his-eyes_114579-13387.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/a9/cd/e9/a9cde9bc99002b0c9f2018997893a4cd.jpg",
+        "https://i.pinimg.com/736x/82/70/96/8270966584a0f1d2d877835efc747906.jpg",
+        "https://i.pinimg.com/736x/58/48/1d/58481d1a443b31caec4e4a67f582e7a4.jpg",
+        "https://i.pinimg.com/736x/ce/27/4b/ce274b52d4cc9e57bb1fe638ade9c064.jpg",
+        "https://i.pinimg.com/736x/57/0d/cf/570dcf90e43c230ee914d4f04537f348.jpg",
+        "https://i.pinimg.com/736x/72/32/07/7232076962724d26aa47e35bc48a62c4.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 3.6,
+          "comment": "Photos were stunning!",
+          "date": "2024-04-16"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Neha Studio",
+      "location": "Hyderabad",
+      "price": 5918,
+      "rating": 4.2,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/9c/8b/80/9c8b80153cef0b6a972df3b8712054cd.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 4.2,
+          "comment": "Excellent quality!",
+          "date": "2024-12-11"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Click Studio",
+      "location": "Jaipur",
+      "price": 15686,
+      "rating": 4.3,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/calm-handsome-curly-haired-boy-posing-isolated-light-grey-standing-still-looks-peaceful-wearing-casual-manner-youth-style-concept_176532-8831.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/c0/62/8d/c0628da344bbdc9546645a366df72886.jpg",
+        "https://i.pinimg.com/736x/07/e7/ab/07e7abe148f001f0d010ddc435b0a6e7.jpg",
+        "https://i.pinimg.com/736x/fc/39/69/fc39699af59be3782eb1dccb737e7ef3.jpg",
+        "https://i.pinimg.com/736x/13/5f/c5/135fc5144fb781180d20dc971d8cf2dc.jpg",
+        "https://i.pinimg.com/736x/a4/85/74/a48574993832a39e17b83ecee145b2b5.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 4.3,
+          "comment": "Photos were stunning!",
+          "date": "2024-04-05"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pixel Studio",
+      "location": "Hyderabad",
+      "price": 6827,
+      "rating": 3.5,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes.",
+      "profilePic": "https://img.freepik.com/free-photo/young-man-sad-expression_1194-2826.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/85/50/62/85506273de502e71bd941d2d2718ff5a.jpg",
+        "https://i.pinimg.com/736x/4a/17/3f/4a173fa90cb057e7a9e09e317e5cef5b.jpg",
+        "https://i.pinimg.com/736x/40/60/9a/40609a726e942d47dbb1915870e5333a.jpg",
+        "https://i.pinimg.com/736x/f4/82/9b/f4829b8e0e9ed62b34497c083f378ab5.jpg",
+        "https://i.pinimg.com/736x/8c/45/f1/8c45f123e8d67656adc775e849a0fb43.jpg",
+        "https://i.pinimg.com/736x/3d/cd/61/3dcd61dcb24ac51d975dc822ae1c064f.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Sneha",
+          "rating": 3.5,
+          "comment": "Photos were stunning!",
+          "date": "2024-09-23"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Pixel Studio",
+      "location": "Jaipur",
+      "price": 14038,
+      "rating": 4.8,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/handsome-sensitive-red-head-man-smiling_23-2149509820.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/d7/78/f1/d778f16a19e5c9d35cf6d3b6428833fc.jpg",
+        "https://i.pinimg.com/736x/07/e7/ab/07e7abe148f001f0d010ddc435b0a6e7.jpg",
+        "https://i.pinimg.com/736x/fc/39/69/fc39699af59be3782eb1dccb737e7ef3.jpg",
+        "https://i.pinimg.com/736x/13/5f/c5/135fc5144fb781180d20dc971d8cf2dc.jpg",
+        "https://i.pinimg.com/736x/a4/85/74/a48574993832a39e17b83ecee145b2b5.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Divya",
+          "rating": 4.8,
+          "comment": "Loved it!",
+          "date": "2024-09-19"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Lens Studio",
+      "location": "Pune",
+      "price": 19560,
+      "rating": 4.9,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "https://img.freepik.com/free-photo/bearded-young-man-wearing-shirt_273609-5938.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/98/8f/0b/988f0b64cf29099c40dff04ef3b426d0.jpg",
+        "https://i.pinimg.com/736x/c8/5a/b8/c85ab8c3955b59fd4f9817f698ac29e2.jpg",
+        "https://i.pinimg.com/736x/36/d2/a0/36d2a0e2abc2f39b72b9333998fcb867.jpg",
+        "https://i.pinimg.com/736x/eb/23/1e/eb231ec2f373d0fb10a6890c0285dd26.jpg",
+        "https://i.pinimg.com/736x/fd/09/dc/fd09dc60ab3f470dc69a60fa53f3ef2b.jpg",
+        "https://i.pinimg.com/736x/8a/86/33/8a8633e3a0cddc234d04b2bcddcb6fe7.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Vikram",
+          "rating": 4.9,
+          "comment": "Very professional!",
+          "date": "2024-09-13"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Focus Studio",
+      "location": "Chennai",
+      "price": 7325,
+      "rating": 3.6,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/71/56/a2/7156a2366ecabd52726070a726662220.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Vikram",
+          "rating": 3.6,
+          "comment": "Photos were stunning!",
+          "date": "2024-11-09"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Frame Studio",
+      "location": "Delhi",
+      "price": 13319,
+      "rating": 3.7,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/young-man-sad-expression_1194-2826.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/f6/f4/5d/f6f45dbd0609e1fd08aabf80ee0d37dc.jpg",
+        "https://i.pinimg.com/736x/51/72/a1/5172a114b32fe64458e70333a2f5ba3a.jpg",
+        "https://i.pinimg.com/736x/79/b7/2c/79b72c076a5f3f965e9d79cd899c4367.jpg",
+        "https://i.pinimg.com/736x/3c/d5/89/3cd5891c6639ff1164fd9f939c10cd9e.jpg",
+        "https://i.pinimg.com/736x/75/7d/b3/757db31f652a79216df066d86a676b2c.jpg",
+        "https://i.pinimg.com/736x/d6/cd/cf/d6cdcfc8482b301eda70466d0a5dfae3.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 3.7,
+          "comment": "Great experience!",
+          "date": "2024-01-21"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Queen Studio",
+      "location": "Mumbai",
+      "price": 12348,
+      "rating": 4.5,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "https://img.freepik.com/free-photo/portrait-young-man-with-dark-curly-hair_176532-8137.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/ad/ce/0e/adce0eefa9bde649126ea00e252d836b.jpg",
+        "https://i.pinimg.com/736x/c8/5a/b8/c85ab8c3955b59fd4f9817f698ac29e2.jpg",
+        "https://i.pinimg.com/736x/36/d2/a0/36d2a0e2abc2f39b72b9333998fcb867.jpg",
+        "https://i.pinimg.com/736x/eb/23/1e/eb231ec2f373d0fb10a6890c0285dd26.jpg",
+        "https://i.pinimg.com/736x/fd/09/dc/fd09dc60ab3f470dc69a60fa53f3ef2b.jpg",
+        "https://i.pinimg.com/736x/8a/86/33/8a8633e3a0cddc234d04b2bcddcb6fe7.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Tanya",
+          "rating": 4.5,
+          "comment": "Nice but a bit late.",
+          "date": "2024-07-14"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Studio Studio",
+      "location": "Mumbai",
+      "price": 16476,
+      "rating": 4.5,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/man-is-happy-smiling-with-his-eyes_114579-13387.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/b5/4b/60/b54b60cc41338f98a1016576b8653014.jpg",
+        "https://i.pinimg.com/736x/82/70/96/8270966584a0f1d2d877835efc747906.jpg",
+        "https://i.pinimg.com/736x/58/48/1d/58481d1a443b31caec4e4a67f582e7a4.jpg",
+        "https://i.pinimg.com/736x/ce/27/4b/ce274b52d4cc9e57bb1fe638ade9c064.jpg",
+        "https://i.pinimg.com/736x/57/0d/cf/570dcf90e43c230ee914d4f04537f348.jpg",
+        "https://i.pinimg.com/736x/72/32/07/7232076962724d26aa47e35bc48a62c4.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Rishi",
+          "rating": 4.5,
+          "comment": "Great experience!",
+          "date": "2024-05-27"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Frame Studio",
+      "location": "Chennai",
+      "price": 19433,
+      "rating": 4.1,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "https://img.freepik.com/free-photo/young-man-sad-expression_1194-2826.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/31/49/fd/3149fd349b875dd5f466d97a647a334c.jpg",
+        "https://i.pinimg.com/736x/82/70/96/8270966584a0f1d2d877835efc747906.jpg",
+        "https://i.pinimg.com/736x/58/48/1d/58481d1a443b31caec4e4a67f582e7a4.jpg",
+        "https://i.pinimg.com/736x/ce/27/4b/ce274b52d4cc9e57bb1fe638ade9c064.jpg",
+        "https://i.pinimg.com/736x/57/0d/cf/570dcf90e43c230ee914d4f04537f348.jpg",
+        "https://i.pinimg.com/736x/72/32/07/7232076962724d26aa47e35bc48a62c4.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 4.1,
+          "comment": "Photos were stunning!",
+          "date": "2024-04-09"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Studio Studio",
+      "location": "Jaipur",
+      "price": 5052,
+      "rating": 3.6,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "https://img.freepik.com/free-photo/bearded-young-man-wearing-shirt_273609-5938.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/9e/65/f9/9e65f90d1ab8b0e4a5794d1f8a4e0257.jpg",
+        "https://i.pinimg.com/736x/c8/5a/b8/c85ab8c3955b59fd4f9817f698ac29e2.jpg",
+        "https://i.pinimg.com/736x/36/d2/a0/36d2a0e2abc2f39b72b9333998fcb867.jpg",
+        "https://i.pinimg.com/736x/eb/23/1e/eb231ec2f373d0fb10a6890c0285dd26.jpg",
+        "https://i.pinimg.com/736x/fd/09/dc/fd09dc60ab3f470dc69a60fa53f3ef2b.jpg",
+        "https://i.pinimg.com/736x/8a/86/33/8a8633e3a0cddc234d04b2bcddcb6fe7.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Divya",
+          "rating": 3.6,
+          "comment": "Nice but a bit late.",
+          "date": "2024-04-04"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Click Studio",
+      "location": "Pune",
+      "price": 5290,
+      "rating": 4.5,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "https://img.freepik.com/free-photo/handsome-sensitive-red-head-man-smiling_23-2149509820.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/ad/a5/e0/ada5e053b45574d9b4b136fbf4b6c12e.jpg",
+        "https://i.pinimg.com/736x/07/e7/ab/07e7abe148f001f0d010ddc435b0a6e7.jpg",
+        "https://i.pinimg.com/736x/fc/39/69/fc39699af59be3782eb1dccb737e7ef3.jpg",
+        "https://i.pinimg.com/736x/13/5f/c5/135fc5144fb781180d20dc971d8cf2dc.jpg",
+        "https://i.pinimg.com/736x/a4/85/74/a48574993832a39e17b83ecee145b2b5.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Tanya",
+          "rating": 4.5,
+          "comment": "Loved it!",
+          "date": "2024-03-12"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Studio Studio",
+      "location": "Jaipur",
+      "price": 17475,
+      "rating": 4.6,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/1d/02/98/1d0298abdcfcf34975bb0a13828fb2c4.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 4.6,
+          "comment": "Photos were stunning!",
+          "date": "2024-12-12"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Pixel Studio",
+      "location": "Pune",
+      "price": 11251,
+      "rating": 4.4,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/handsome-sensitive-red-head-man-smiling_23-2149509820.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/b1/64/3c/b1643c9fca9c9646f15fc6f6df951555.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Rishi",
+          "rating": 4.4,
+          "comment": "Excellent quality!",
+          "date": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Pixel Studio",
+      "location": "Pune",
+      "price": 11643,
+      "rating": 4.1,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/b3/0b/09/b30b093767d9c195a16c0fe824fe7e45.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Kiran",
+          "rating": 4.1,
+          "comment": "Very professional!",
+          "date": "2024-06-15"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Snapshot Studio",
+      "location": "Delhi",
+      "price": 10508,
+      "rating": 4.9,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "https://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg?ga=GA1.1.882529096.1733305542&semt=ais_hybrid&w=740",
+      "portfolio": [
+        "https://i.pinimg.com/736x/fe/58/bb/fe58bb1424609247b18e150833f18aa4.jpg",
+        "https://i.pinimg.com/736x/40/8b/57/408b57a4a940da0701fcaf6feb5de38f.jpg",
+        "https://i.pinimg.com/736x/3f/7a/4d/3f7a4df4a2826de9c67f9eb54af558c3.jpg",
+        "https://i.pinimg.com/736x/bf/31/33/bf3133716d75541ae59c6a7d7cf042c2.jpg",
+        "https://i.pinimg.com/736x/2c/1d/76/2c1d762204a185fe69e48aebff654f20.jpg",
+        "https://i.pinimg.com/736x/73/53/47/735347345dbbbddc1306d2d19edfcddd.jpg"
+      ],
+      "reviews": [
+        {
+          "name": "Aman",
+          "rating": 4.0,
+          "comment": "Excellent quality!",
+          "date": "2024-05-02"
+        }
+      ]
+    }
+  ]
+}
